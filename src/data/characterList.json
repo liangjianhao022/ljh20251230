@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "name": "日向翔阳",
+    "team": "乌野高校",
+    "position": "副攻手",
+    "number": "10",
+    "intro": "乌野的“小巨人”，性格开朗热血，弹跳力极强",
+    "img": "../assets/character-images/hinata_shoyo.png",
+    "flagImg": "../assets/team-flags/wuye.jpg",
+    "sixDims": {
+      "strength": 3,
+      "speed": 5,
+      "jump": 5,
+      "stamina": 4,
+      "skill": 4,
+      "intellect": 3
+    }
+  },
+  {
+    "id": 2,
+    "name": "影山飞雄",
+    "team": "乌野高校",
+    "position": "二传手",
+    "number": "9",
+    "intro": "被称为“球场上的王者”，传球精准，性格傲娇",
+    "img": "../assets/character-images/kageyama_tobio.png",
+    "flagImg": "../assets/team-flags/wuye.jpg",
+    "sixDims": {
+      "strength": 4,
+      "speed": 4,
+      "jump": 4,
+      "stamina": 5,
+      "skill": 5,
+      "intellect": 5
+    }
+  },
+  {
+    "id": 3,
+    "name": "及川彻",
+    "team": "青城高校",
+    "position": "二传手",
+    "number": "1",
+    "intro": "青城队长，被称为“天才二传”，擅长调动全队",
+    "img": "../assets/character-images/oikawa_tooru.png",
+    "flagImg": "../assets/team-flags/qingyechengxi.jpg",
+    "sixDims": {
+      "strength": 3,
+      "speed": 4,
+      "jump": 4,
+      "stamina": 4,
+      "skill": 5,
+      "intellect": 5
+    }
+  },
+  {
+    "id": 4,
+    "name": "孤爪研磨",
+    "team": "音驹高校",
+    "position": "二传手",
+    "number": "5",
+    "intro": "电竞少年，擅长观察对手，传球风格灵活",
+    "img": "../assets/character-images/kozume_kenma.png",
+    "flagImg": "../assets/team-flags/yinju.jpg",
+    "sixDims": {
+      "strength": 2,
+      "speed": 3,
+      "jump": 3,
+      "stamina": 2,
+      "skill": 5,
+      "intellect": 5
+    }
+  },
+  {
+    "id": 5,
+    "name": "月岛萤",
+    "team": "乌野高校",
+    "position": "副攻手",
+    "number": "11",
+    "intro": "头脑冷静，擅长精准拦网，表面毒舌内心温柔",
+    "img": "../assets/character-images/tsukishima_kei.png",
+    "flagImg": "../assets/team-flags/wuye.jpg",
+    "sixDims": {
+      "strength": 3,
+      "speed": 3,
+      "jump": 4,
+      "stamina": 3,
+      "skill": 4,
+      "intellect": 5
+    }
+  },
+  {
+    "id": 6,
+    "name": "黑尾铁朗",
+    "team": "音驹高校",
+    "position": "副攻手",
+    "number": "1",
+    "intro": "音驹队长，擅长“怪人快攻”，气场强大",
+    "img": "../assets/character-images/kuroo_tetsuro.png",
+    "flagImg": "../assets/team-flags/yinju.jpg",
+    "sixDims": {
+      "strength": 4,
+      "speed": 4,
+      "jump": 4,
+      "stamina": 4,
+      "skill": 4,
+      "intellect": 5
+    }
+  },
+  {
+    "id": 7,
+    "name": "岩泉一",
+    "team": "青城高校",
+    "position": "主攻手",
+    "number": "4",
+    "intro": "及川的最佳搭档，被称为“青城的磐石”",
+    "img": "../assets/character-images/iwaizumi_ichi.png",
+    "flagImg": "../assets/team-flags/qingyechengxi.jpg",
+    "sixDims": {
+      "strength": 5,
+      "speed": 4,
+      "jump": 4,
+      "stamina": 5,
+      "skill": 4,
+      "intellect": 4
+    }
+  },
+  {
+    "id": 8,
+    "name": "木兔光太郎",
+    "team": "枭谷学园",
+    "position": "主攻手",
+    "number": "1",
+    "intro": "枭谷王牌，性格跳脱，扣球极具爆发力",
+    "img": "../assets/character-images/kotetsu_kotaro.png",
+    "flagImg": "../assets/team-flags/xiaogu.jpg",
+    "sixDims": {
+      "strength": 5,
+      "speed": 4,
+      "jump": 5,
+      "stamina": 4,
+      "skill": 5,
+      "intellect": 3
+    }
+  },
+  {
+    "id": 9,
+    "name": "赤苇京治",
+    "team": "枭谷学园",
+    "position": "二传手",
+    "number": "5",
+    "intro": "木兔的最佳搭档，冷静沉稳，控场能力强",
+    "img": "../assets/character-images/akaashi_kyoji.png",
+    "flagImg": "../assets/team-flags/xiaogu.jpg",
+    "sixDims": {
+      "strength": 3,
+      "speed": 3,
+      "jump": 3,
+      "stamina": 4,
+      "skill": 5,
+      "intellect": 5
+    }
+  },
+  {
+    "id": 10,
+    "name": "宫侑",
+    "team": "稻荷崎高校",
+    "position": "二传手",
+    "number": "1",
+    "intro": "宫治的双胞胎哥哥，擅长“光速二传”，性格张扬",
+    "img": "../assets/character-images/miya_yu.png",
+    "flagImg": "../assets/team-flags/daoheqi.jpg",
+    "sixDims": {
+      "strength": 3,
+      "speed": 5,
+      "jump": 3,
+      "stamina": 4,
+      "skill": 5,
+      "intellect": 4
+    }
+  },
+  {
+    "id": 11,
+    "name": "宫治",
+    "team": "稻荷崎高校",
+    "position": "主攻手",
+    "number": "2",
+    "intro": "宫侑的双胞胎弟弟，擅长“假动作扣球”",
+    "img": "../assets/character-images/miya_osamu.png",
+    "flagImg": "../assets/team-flags/daoheqi.jpg",
+    "sixDims": {
+      "strength": 4,
+      "speed": 4,
+      "jump": 3,
+      "stamina": 4,
+      "skill": 5,
+      "intellect": 4
+    }
+  },
+  {
+    "id": 12,
+    "name": "角名伦太郎",
+    "team": "稻荷崎高校",
+    "position": "副攻手",
+    "number": "10",
+    "intro": "冷静型选手，擅长技巧型拦网和扣球",
+    "img": "../assets/character-images/suna_rintaro.png",
+    "flagImg": "../assets/team-flags/daoheqi.jpg",
+    "sixDims": {
+      "strength": 3,
+      "speed": 3,
+      "jump": 4,
+      "stamina": 3,
+      "skill": 4,
+      "intellect": 5
+    }
+  },
+  {
+    "id": 13,
+    "name": "佐久早圣臣",
+    "team": "井闼山高校",
+    "position": "主攻手",
+    "number": "5",
+    "intro": "井闼山王牌，打法严谨，追求完美",
+    "img": "../assets/character-images/sakusa_kiyoomi.png",
+    "flagImg": "../assets/team-flags/jingdashan.jpg",
+    "sixDims": {
+      "strength": 5,
+      "speed": 4,
+      "jump": 4,
+      "stamina": 5,
+      "skill": 5,
+      "intellect": 4
+    }
+  },
+  {
+    "id": 14,
+    "name": "北信介",
+    "team": "稻荷崎高校",
+    "position": "主攻手",
+    "number": "1",
+    "intro": "以冷静、沉稳、自律的 “普通人极致”",
+    "img": "../assets/character-images/Kita Shinsuke.png",
+    "flagImg": "../assets/team-flags/daoheqi.jpg",
+    "sixDims": {
+      "strength": 4,
+      "speed": 3,
+      "jump": 3,
+      "stamina": 5,
+      "skill": 4,
+      "intellect": 5
+    }
+  }
+]
